@@ -1,0 +1,130 @@
+data types
+patterns
+ step by step function definition
+
+ not' = _ --the undescore error type bool to bool
+ ##############
+  OR funcrtion
+  (||) :: Bool -> Bool -> bOOL
+  IMPORT PRELUDE
+_ undescore you cannot use it
+
+disjunction or
+
+loop :: a
+loop = loop
+
+--undefined :: a
+###CAN BE USED AS ALOOP
+
+--error :: string -> a
+used ffor error cases
+
+run time crshes
+
+
+##############
+ if-then-else
+
+ ifthenelse :;Bool -> a->a ->a
+ ifthenelse False t e =e
+ ifthenelse True t - = t
+
+
+
+ constructorsa
+ functionFrom Maybe
+ fromMaybe
+ ########from prelude
+
+fromMaybe :: a -> Maybe a-> a
+
+myDiv
+
+orelse
+
+chaining optional values
+
+
+pairs
+
+constructor
+fst
+snd
+swap
+
+#########
+currying and uncurrying
+uncuryy
+
+#########
+LISTS
+construvtors
+[]:: [a]
+a recursive data type
+
+filtering a LISTS
+reversing the tail
+
+
+look -up table
+simple look up table like a dictionary
+delete
+ insert
+  lookup
+
+  ##########
+data
+type
+ ways of
+
+ ################
+  newtype makes a new data
+  third type of special cases with one contructor amd one argument
+
+  
+  making tabkes abstract
+  
+###############
+Modelling a transaction
+Updating a table with a transaction
+using  
+
+let ----------------- in
+to update a trabsaction
+fold = lookup f accounts
+
+ if your accou t is available it returns a value 
+ otherwise it does not
+
+ ------------------
+ accs :: accounts accs = insert "karina" ..........
+
+
+we create a new version of it instead of overwiting the available value
+
+###############################################
+Binary trees
+can be a leaf or a node
+
+
+abstract syntax trees of ann expression language
+
+
+using expressionas such as if Zero
+expression 
+
+Lit constructor
+Add contructor
+Neg constructtor
+IfZero constructor
+
+
+evaluator
+eval ::EXpr
+ evaluate the add, Neg, IfZero
+
+Lit 
+#################
+Type Classes
+

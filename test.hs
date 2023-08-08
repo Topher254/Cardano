@@ -81,3 +81,7 @@ flatten (Node l r) = flatten l ++ flatten r --left and right child
 height :: Tree a -> Int
 height (Leaf _) = 0
 height(Node l r) = 1 + max(height l) (height r)
+
+height :: Tree a -> Int
+height (Leaf _) = 0
+height(Node l r) = 1 + max(height l) (height r)

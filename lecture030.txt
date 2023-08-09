@@ -1,0 +1,105 @@
+base hackage
+base library
+$
+show $ toUpper 'q'
+
+
+fst
+
+
+###############
+PARAMETRIC POLYMORPHISM
+
+
+swapp and produce other as
+bar
+
+parametricity
+for map
+ parse
+
+
+ Either type
+
+ data Either
+
+
+ ######################
+ OVERLOADING
+ AD-HOC POLYMORPHISM
+
+ TYPE CLASSES
+ eg Eq CLASSES
+
+ instances dor Eq
+
+
+MInimal
+overloading and inference
+
+
+important classes
+
+for equality and inequality
+
+
+comparisons
+ superclasses
+
+ ###################
+ CLASS show
+ show
+ ShowsPrec
+
+ ###########
+ Read 
+
+ strange
+
+STRANGE WITH Read
+DERIVING DATA TREE
+
+
+###################
+NUMBERr
+Int
+float, double, RATIONAL
+
+ 
+class num 
+toenum
+fromenum
+succ
+produce
+
+
+rational numbners
+ fractionl
+  floating
+  Real farc --can round
+
+
+  literrals
+
+  no autoamtic coercion
+
+  use of :i
+ ############################
+ 
+ Hoogle.haskell.org
+
+
+
+  Bool
+  double
+
+
+  uncurrying and currying
+  recursion
+
+
+  understand recursion
+  
+
+
+
